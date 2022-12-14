@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\MyTaskPyp\\12.12.2022\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\Enum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\MyTaskPyp\\12.12.2022\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MyTaskPyp\\12.12.2022\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\User\\Desktop\\MyTaskPyp\\12.12.2022\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\Enum.csproj",
+        "projectName": "Enum",
+        "projectPath": "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\Enum.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MyTaskPyp\\12.12.2022\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,11 +50,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

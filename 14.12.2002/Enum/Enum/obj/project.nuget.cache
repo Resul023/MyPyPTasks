@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "xvaMJ5QveiER0njJop/U6lDVoxXvE/j4O6dgKDPdi7NtZAKG0+jzzTbNmgnUhfYGvWmJSNTl9HoY204MPG69sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\MyHomeTaskPyp\\14.12.2002\\Enum\\Enum\\EnumTask.csproj",
+=======
+  "dgSpecHash": "FV+oJF73ClM6pjRBoZwKvshEq7fBIkjW1exsscbITJRTSK6IGEQ8qQcDcY2eI2Ugr+xwM9p1chlDZi211wjLdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\EnumTask.csproj",
+>>>>>>> main
+  "expectedPackageFiles": [],
+  "logs": []
+}

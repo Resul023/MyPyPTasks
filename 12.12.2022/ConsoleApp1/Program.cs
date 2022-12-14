@@ -26,7 +26,6 @@ class Program
             switch (option)
             {
                 case 0:
-
                     foreach (var order in orders)
                     {
                         foreach (var client in clients)
