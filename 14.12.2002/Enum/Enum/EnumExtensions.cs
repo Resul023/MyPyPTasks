@@ -10,7 +10,6 @@ namespace EnumTask
 {
     public static class EnumExtensions
     {
-<<<<<<< HEAD
         public static void GenericGetDisplayName(this Enum enumValue)
         {
             foreach (var field in enumValue.GetType().GetFields())
@@ -25,7 +24,6 @@ namespace EnumTask
 
             }
 
-=======
         public static string GetDisplayName(this Enum enumValue)
         {
             var result = enumValue.GetType()
@@ -34,7 +32,6 @@ namespace EnumTask
                             .GetCustomAttribute<DisplayAttribute>()
                             .GetName();
             return result;
->>>>>>> main
         }
     }
 }
