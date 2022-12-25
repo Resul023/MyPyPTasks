@@ -1,0 +1,109 @@
+﻿
+<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ Assembly Name="System.Core.dll" #>
+<#@ Assembly Name="System.Windows.Forms.dll" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Data" #>
+<#@ assembly name="System.Data.DataSetExtensions" #>
+<#@ assembly name="C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\bin\Debug\net7.0\Pluralize.NET.dll" #>
+
+<#@ assembly name="NetStandard" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Reflection" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="Pluralize.NET" #>
+
+<#@ output extension=".cs" #>
+
+<#
+    Pluralizer pl = new();
+
+        string _path = @"C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\Models\";
+
+        SqlConnection sqlConnection = new SqlConnection(@"Server=DESKTOP-0UDOH5O;Database=Northwind;Trusted_Connection=True");
+
+        sqlConnection.Open();
+
+        string queryTableName = @"USE Northwind SELECT REPLACE(Name,' ','') FROM sys.Tables where name !='sysdiagrams'";
+        SqlCommand sqlCommand = new SqlCommand(queryTableName, sqlConnection);
+        var dataTableName = sqlCommand.ExecuteReader();
+
+        List<string> allTableName = new List<string>();
+        while (dataTableName.Read())
+        {
+            allTableName.Add((string)dataTableName[0]);
+            using (FileStream fileStream = new FileStream(_path + $"{pl.Singularize((string)dataTableName[0])}.cs", FileMode.Create))
+            {
+            }
+        }
+        dataTableName.Close();
+
+
+        foreach (var item in allTableName)
+        {
+            string queryTableProperty = @$"SELECT CONCAT
+            (
+                         'public ',
+                         IIF(DATA_TYPE = 'nvarchar', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'uniqueidentifier', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'ntext', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'nchar', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'int', 'int' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'smallint', 'short' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'tinyint', 'byte' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'money', 'decimal' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'float', 'float' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'decimal', 'decimal' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'bit', 'bool' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'datetime', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'date', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'datetime2', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         IIF(DATA_TYPE = 'image', 'byte[]' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                         ' ',
+                         COLUMN_NAME,
+                         ' {{ get; set; }}'
+                         + (IIF((DATA_TYPE = 'nvarchar' or DATA_TYPE = 'nchar') and (IS_NULLABLE = 'NO'), ' = null!;', ''))
+            ) FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = N'{item}' and TABLE_SCHEMA = 'dbo' ";
+
+            SqlCommand sqlCommandProperty = new SqlCommand(queryTableProperty, sqlConnection);
+            var dataProperty = sqlCommandProperty.ExecuteReader();
+
+
+            using (FileStream fileStream = new FileStream(_path + $"{pl.Singularize(item)}.cs", FileMode.Open))
+            {
+                StreamWriter streamWriter = new StreamWriter(fileStream);
+                streamWriter.WriteLine($"namespace T4Task.Models;");
+                streamWriter.WriteLine($"public class {pl.Singularize(item)} {{");
+                while (dataProperty.Read())
+                {
+                    streamWriter.WriteLine($"{dataProperty[0]}");
+                }
+                streamWriter.WriteLine("}");
+                streamWriter.Close();
+                dataProperty.Close();
+
+            }
+
+        }
+        sqlConnection.Close();
+#>
+
+
+
+
+
+
+
+
+
+
+
+
+          
+    

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\obj\Debug\net6.0\T4Task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\obj\Debug\net6.0\T4Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\obj\Debug\net6.0\T4Task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\obj\Debug\net6.0\T4Task.AssemblyInfo.cs
+C:\Users\User\Desktop\22.12.2022\T4Task\T4Task\obj\Debug\net6.0\T4Task.csproj.CoreCompileInputs.cache
