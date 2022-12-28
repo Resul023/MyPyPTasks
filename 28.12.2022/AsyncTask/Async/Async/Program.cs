@@ -24,20 +24,18 @@ namespace Async
 
             Phone phone = new Phone();
             phone.Contacts = myContactDb;
-            phone.Number = "+994 055 357 17 68";
-            phone.Balance = decimal.Parse("0,1");
+
+            phone.Number = EnterNumber(myProviderDb);
+            phone.Balance = EnterBalance();
             phone.Provider = GetProvider(phone.Number , myProviderDb);
 
-            Console.WriteLine(phone.Provider);
+            Console.Clear();
             CancellationTokenSource ctsForRealWatchUi = new CancellationTokenSource();
-
             Task taskRealWatch = new Task(() => ShowTheWatchInLine(ctsForRealWatchUi, phone));
-            
-
             taskRealWatch.Start();
 
-            bool isExit = true;
-            while (isExit)
+            bool isExitForMenu = true;
+            while (isExitForMenu)
             {
                 Console.WriteLine("1-Calling");
                 Console.WriteLine("2-Return Phone");
@@ -79,7 +77,7 @@ namespace Async
                         UpdateData.TakeCredit(code,phone,myProviderDb);
                         break;
                     case 4:
-                        isExit = false;
+                        isExitForMenu = false;
                         break;
                     default:
                         Console.WriteLine("Write true option");
@@ -287,11 +285,14 @@ namespace Async
             {
                 Console.WriteLine("Write your Badge");
                 myBalance = Console.ReadLine();
-                foreach (var item in myBalance)
+                if (decimal.Parse(myBalance)>0)
                 {
-                    if (char.IsDigit(item) || item == ',')
+                    foreach (var item in myBalance)
                     {
-                        defaultValue = false;
+                        if (char.IsDigit(item) || item == ',')
+                        {
+                            defaultValue = false;
+                        }
                     }
                 }
             } while (defaultValue);

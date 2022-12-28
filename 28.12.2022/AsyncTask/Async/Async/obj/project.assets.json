@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\AsyncTask\\Async\\Async\\Async.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyPyPTasks\\28.12.2022\\AsyncTask\\Async\\Async\\Async.csproj",
       "projectName": "Async",
-      "projectPath": "C:\\Users\\User\\Desktop\\AsyncTask\\Async\\Async\\Async.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MyPyPTasks\\28.12.2022\\AsyncTask\\Async\\Async\\Async.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\AsyncTask\\Async\\Async\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MyPyPTasks\\28.12.2022\\AsyncTask\\Async\\Async\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
