@@ -1,23 +1,24 @@
 #!/bin/bash
-mkdir Tasksh
-cd Tasksh
+folder_Name="Tasksh"
+mkdir $folder_Name
+cd $folder_Name
 dotnet new sln
-dotnet new mvc -o Tasksh
-dotnet sln add Tasksh
-cd Tasksh
+dotnet new mvc -o $folder_Name
+dotnet sln add $folder_Name
+cd $folder_Name
 dotnet add package Microsoft.EntityFrameworkCore.Tools
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 cd Models	
 touch Product.cs
 touch Category.cs
-echo "namespace Tasksh.Models;
+echo "namespace $folder_Name.Models;
 public class Product
 {
     public int ProductId { get; set; }
 
     
 }" > Product.cs
-echo "namespace Tasksh.Models;
+echo "namespace $folder_Name.Models;
 public class Category
 {
     public int CategoryId { get; set; }
