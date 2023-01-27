@@ -23,15 +23,15 @@ namespace EnumTask
                 }
 
             }
-
-        public static string GetDisplayName(this Enum enumValue)
-        {
-            var result = enumValue.GetType()
-                            .GetMember(enumValue.ToString())
-                            .First()
-                            .GetCustomAttribute<DisplayAttribute>()
-                            .GetName();
-            return result;
         }
+        //public static string GetDisplayName(this Enum enumValue)
+        //{
+        //    var result = enumValue.GetType()
+        //                    .GetMember(enumValue.ToString())
+        //                    .First()
+        //                    .GetCustomAttribute<DisplayAttribute>()
+        //                    .GetName();
+        //    return result;
+        //}
     }
 }

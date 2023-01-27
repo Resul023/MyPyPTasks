@@ -31,3 +31,18 @@ C:\Users\User\Desktop\MyHomeTaskPyp\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTa
 C:\Users\User\Desktop\MyHomeTaskPyp\14.12.2002\Enum\Enum\obj\Debug\net6.0\ref\EnumTask.dll
 =======
 >>>>>>> main
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\bin\Debug\net6.0\EnumTask.exe
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\bin\Debug\net6.0\EnumTask.deps.json
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\bin\Debug\net6.0\EnumTask.runtimeconfig.json
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\bin\Debug\net6.0\EnumTask.dll
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\bin\Debug\net6.0\EnumTask.pdb
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.AssemblyInfo.cs
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.dll
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\refint\EnumTask.dll
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.pdb
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\EnumTask.genruntimeconfig.cache
+C:\Users\User\Desktop\MyPyPTasks\14.12.2002\Enum\Enum\obj\Debug\net6.0\ref\EnumTask.dll

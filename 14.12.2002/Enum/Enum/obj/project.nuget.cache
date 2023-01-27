@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "xvaMJ5QveiER0njJop/U6lDVoxXvE/j4O6dgKDPdi7NtZAKG0+jzzTbNmgnUhfYGvWmJSNTl9HoY204MPG69sQ==",
+  "dgSpecHash": "KVypBedwQ+tvnCBKPgui45PYT0yvmi+oh/wDdBsQ95hYKeJao+RfWhiN81x3l0vtYuJAEasB/mRqW0DyP6utDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\MyHomeTaskPyp\\14.12.2002\\Enum\\Enum\\EnumTask.csproj",
-=======
-  "dgSpecHash": "FV+oJF73ClM6pjRBoZwKvshEq7fBIkjW1exsscbITJRTSK6IGEQ8qQcDcY2eI2Ugr+xwM9p1chlDZi211wjLdQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\14.12.2002\\Enum\\Enum\\EnumTask.csproj",
->>>>>>> main
+  "projectFilePath": "C:\\Users\\User\\Desktop\\MyPyPTasks\\14.12.2002\\Enum\\Enum\\EnumTask.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\User\\Desktop\\MyPyPTasks\\14.12.2002\\Enum\\Enum\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

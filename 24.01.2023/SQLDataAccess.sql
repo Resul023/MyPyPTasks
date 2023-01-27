@@ -10,9 +10,9 @@ Select FirstName,LastName,BirthDate,Year(GETDATE())-Year(BirthDate) as 'Age' fro
 Select * from Customers where CompanyName like '%Restaurant%'
 
 
-select c.CategoryID,Count(c.CategoryID) as 'Product Count' from Categories C
+select c.CategoryID,c.CategoryName,Count(c.CategoryID) as 'Product Count' from Categories C
 Join Products P on c.CategoryID = p.CategoryID 
-Group by (c.CategoryID)
+Group by c.CategoryID,c.CategoryName
 
 
 Declare @categoryId int

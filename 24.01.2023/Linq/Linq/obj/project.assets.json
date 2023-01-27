@@ -3430,11 +3430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\24.01.2023\\Linq\\Linq\\Linq.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyPyPTasks\\24.01.2023\\Linq\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Users\\User\\Desktop\\24.01.2023\\Linq\\Linq\\Linq.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MyPyPTasks\\24.01.2023\\Linq\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\24.01.2023\\Linq\\Linq\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MyPyPTasks\\24.01.2023\\Linq\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -54,12 +54,12 @@ namespace Linq
 
             //4
             //var result = context.Products
-            //    .Include(x=>x.Category)
+            //    .Include(x => x.Category)
             //    .GroupBy(x => x.CategoryId)
             //    .ToList();
             //foreach (var item in result)
             //{
-            //    Console.WriteLine($"{item.Key} - {context.Categories.FirstOrDefault(x=>x.CategoryId == item.Key).CategoryName} - {item.Count()}");
+            //    Console.WriteLine($"{item.Key} - {context.Categories.FirstOrDefault(x => x.CategoryId == item.Key).CategoryName} - {context.Products.Where(x=>x.CategoryId == item.Key).ToList().Sum(x=>x.UnitsInStock)}");
             //}
 
             //5
@@ -118,20 +118,27 @@ namespace Linq
             //});
 
             //4
-            //var query = (from o in context.Categories
-            //             join p in context.Products on o.CategoryId equals p.CategoryId
-            //             group o by (o.CategoryId)
-            //    ).ToList();
+            var query = (from p in context.Products
+                         join o in context.Categories on p.CategoryId equals o.CategoryId
+                         group p by new 
+                         { 
+                            p.Category.CategoryId,
+                            p.Category.CategoryName,
 
-            //foreach (var item in query)
-            //{
-            //    Console.WriteLine($"Id-{item.Key}");
-            //    foreach (var item2 in item)
-            //    {
-            //        Console.WriteLine($"{item2.CategoryName} - {item2.Description}");
-            //        break;
-            //    }
-            //}
+                         } into g
+                         select new
+                         {
+                             Id = g.Key.CategoryId,
+                             CategoryName = g.Key.CategoryName,
+                             UnitOfStock = g.Sum(x=> x.UnitsInStock)
+                         }
+                ).ToList();
+
+            foreach (var item in query)
+            {
+                Console.WriteLine($"{item.Id} - {item.CategoryName} - {item.UnitOfStock}");
+            }
+
 
             //5
             //Product product = new Product();
