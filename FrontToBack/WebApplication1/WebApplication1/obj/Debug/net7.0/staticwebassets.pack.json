@@ -1,0 +1,1029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\main.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\fav.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\l8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ob1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ob2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ob3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\q1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\FrontToBack\\WebApplication1\\WebApplication1\\wwwroot\\assets\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
