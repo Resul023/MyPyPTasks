@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.AssemblyInfo.cs
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\7.02.2023\SessionStage\Cache\obj\Debug\net7.0\Cache.RazorAssemblyInfo.cs
