@@ -1,11 +1,13 @@
 using Microsoft.EntityFrameworkCore;
+using SqlDependency.BackgroundServices;
 using SqlDependency.DATA;
 using SqlDependency.Hubs;
 using SqlDependency.MiddlewareExtension;
 using SqlDependency.SubscribeTableDependencies;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddHostedService<MyBackgroundServices>();
+//builder.Services.AddWindowsService();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
@@ -15,8 +17,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 // Service ProductSub
 builder.Services.AddSingleton<DashboardHub>();
-builder.Services.AddSingleton<SubscribeProductTableDependency>();
-
+//builder.Services.AddSingleton<SubscribeProductTableDependency>();
 
 var app = builder.Build();
 
@@ -35,5 +36,6 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Dashboard}/{action=Index}/{id?}");
 
-app.UseProductTableDependency();
+//app.UseProductTableDependency();
+//app.Services.GetService<SubscribeProductTableDependency>().SubscribeTableDependency();
 app.Run();

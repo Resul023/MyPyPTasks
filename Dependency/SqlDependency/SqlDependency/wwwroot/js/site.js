@@ -1,4 +1,5 @@
 ﻿var connection = new signalR.HubConnectionBuilder().withUrl("/dashboardHub").build();
+
 $(function () {
     connection.start().then(function () {
         alert('Connect');
@@ -8,15 +9,15 @@ $(function () {
     })
 })
 
-function InvokeProd
-    ucts() {
-    connection.invoke("SendProducts").catch(function (err) {
+function InvokeProducts()
+    {
+    connection.invoke("ReceivedProducts").catch(function (err) {
         return console.log(err.toString());
     })
 }
 connection.on("ReceivedProducts", function(productViewModel) {
     BindProductToHtml(productViewModel.products);
-    BindTime(productViewModel.dateTime)
+    BindTime(productViewModel.dateTime);
 })
 
 function BindProductToHtml(products) {

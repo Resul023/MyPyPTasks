@@ -43,9 +43,6 @@ namespace SqlDependency.Controllers
                 command.ExecuteNonQuery();
                 connection.Close();
             }
-            //var isExists = _context.Product.FirstOrDefault(x => x.Id == product.Id);
-            //isExists.Name = product.Name;
-            //_context.SaveChanges();
             return RedirectToAction("index");
         }
     }

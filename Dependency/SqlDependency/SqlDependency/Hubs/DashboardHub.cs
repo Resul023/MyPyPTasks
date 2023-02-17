@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 using Microsoft.Extensions.Caching.Memory;
+using SqlDependency.Models;
 using SqlDependency.Repositories;
+using SqlDependency.ViewModels;
 
 namespace SqlDependency.Hubs
 {
@@ -15,10 +17,19 @@ namespace SqlDependency.Hubs
             var connectionString = configuration.GetConnectionString("default");
             productRepository= new ProductRepository(connectionString,_cache);
         }
-        public async Task SendProducts()
+        //public async Task SendProducts()
+        //{
+        //    var products = productRepository.GetProducts();
+        //    await Clients.All.SendAsync("ReceivedProducts", products);
+        //}
+        public async Task SendProductsXml(ProductViewModel productViewModel)
         {
-            var products = productRepository.GetProducts();
-            await Clients.All.SendAsync("ReceivedProducts", products);
+            //var products = productRepository.GetProducts();
+            await Clients.All.SendAsync("ReceivedProducts", productViewModel);
         }
+        //public async Task SendProducts(ProductViewModel productViewModel)
+        //{
+        //    await Clients.All.SendAsync("ReceivedProducts", productViewModel);
+        //}
     }
 }

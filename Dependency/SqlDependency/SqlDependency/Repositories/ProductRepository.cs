@@ -3,6 +3,7 @@ using SqlDependency.Models;
 using SqlDependency.ViewModels;
 using System.Data;
 using System.Data.SqlClient;
+using System.Xml;
 
 namespace SqlDependency.Repositories
 {
@@ -22,8 +23,8 @@ namespace SqlDependency.Repositories
             List<Product> products= new List<Product>();
             Product product;
 
-            var data = GetAllProductsDetail();
-            foreach (DataRow row in data.Rows)
+            var dataTable = GetAllProductsDetail();
+            foreach (DataRow row in dataTable.Rows)
             {
                 product = new Product
                 {
@@ -34,9 +35,10 @@ namespace SqlDependency.Repositories
                 };
                 products.Add(product);
             }
-            //Add cache
+            #region V1
+             //Add cache
             List<Product> cacheProduct;
-            if (!_cache.TryGetValue(CACHE_PRODUCT_KEY,out cacheProduct))
+            if (!_cache.TryGetValue(CACHE_PRODUCT_KEY, out cacheProduct))
             {
                 cacheProduct = products;
                 var cacheEntryOptions = new MemoryCacheEntryOptions()
@@ -46,6 +48,21 @@ namespace SqlDependency.Repositories
             }
             DateTime dateTime = DateTime.Now;
             ProductViewModel productViewModel = new ProductViewModel(cacheProduct, dateTime.ToString("MM/dd/yyyy HH:mm"));
+            #endregion
+
+            #region V2
+            string xmlPath = Directory.GetCurrentDirectory() + @"\XmlData.xml";
+            StreamWriter createXmlFile = new StreamWriter(xmlPath);
+            //XmlDocument xmlDocument = new XmlDocument();
+            //xmlDocument.Load(xmlPath);
+            createXmlFile.Close();
+            DataSet dataSet = new DataSet();
+            dataSet.Tables.Add(dataTable);
+            dataSet.WriteXml(xmlPath);
+            #endregion
+
+
+
             return productViewModel;
         }
         public DataTable GetAllProductsDetail()

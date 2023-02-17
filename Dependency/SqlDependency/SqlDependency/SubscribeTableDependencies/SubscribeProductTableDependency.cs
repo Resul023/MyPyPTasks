@@ -8,7 +8,7 @@ namespace SqlDependency.SubscribeTableDependencies
     {
         SqlTableDependency<Product> tableDependency;
         DashboardHub dashboardHub;
-        public SubscribeProductTableDependency( DashboardHub dashboardHub)
+        public SubscribeProductTableDependency(DashboardHub dashboardHub)
         {
             this.dashboardHub = dashboardHub;
         }
@@ -26,8 +26,8 @@ namespace SqlDependency.SubscribeTableDependencies
             //if (e.ChangeType != TableDependency.SqlClient.Base.Enums.ChangeType.None)
             //{
             //}
-                dashboardHub.SendProducts();
-            
+            //dashboardHub.SendProducts();
+
         }
 
         private void TableDependency_OnError(object sender, TableDependency.SqlClient.Base.EventArgs.ErrorEventArgs e)
